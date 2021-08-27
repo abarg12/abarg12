@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aidan Barg!
-- 👀 I’m interested in computation theory and data science!
-- 🌱 I’m currently learning how to make data visualizations in python.
+- 👀 I’m interested in web design, computation theory, and data science!
+- 🌱 I’m currently learning how make responsive web pages.
 - 📫 How to reach me: email - aidan.barg@gmail.com
 
 <!---
