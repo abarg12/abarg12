@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aidan Barg!
-- 👀 I’m interested in web design, computation theory, and data science!
+- 👀 I’m interested in computation theory, data science, and game design!
 - 🌱 I’m currently learning how make responsive web pages.
 - 📫 How to reach me: email - aidan.barg@gmail.com
 
