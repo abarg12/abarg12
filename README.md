@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aidan Barg!
-- :sparkles: I’m interested in computation theory, digital art, and game design!
-- 🌱 I’m currently learning how to make games in Unity and how to design art in Blender and Photoshop.
+- 🌱 I’m currently learning socket programming and the C ncurses library.
 - 📫 How to reach me: email - aidan.barg@gmail.com
 
 <!---
