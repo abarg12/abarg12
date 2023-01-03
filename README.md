@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aidan Barg!
-- 🌱 I’m currently learning socket programming and the C ncurses library.
+- 🌱 I’m currently learning about maze generation and some Python visualization libraries.
 - 📫 How to reach me: email - aidan.barg@gmail.com
 
 <!---
