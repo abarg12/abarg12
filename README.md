@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aidan Barg!
-- 🌱 I’m currently learning about maze generation and some Python visualization libraries.
+- 🌱 I’m currently learning about network security, computer vision, and how to build compilers! ✨
 - 📫 How to reach me: email - aidan.barg@gmail.com
 
 <!---
