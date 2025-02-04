@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aidan Barg!
-- 🌱 I’m currently learning about network security, computer vision, and how to build compilers! ✨
-- 📫 How to reach me: email - aidan.barg@gmail.com
+👋 Hi, I’m Aidan Barg
+
+Email: aidan.barg@gmail.com
 
 <!---
 abarg12/abarg12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
